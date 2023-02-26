@@ -1,0 +1,6 @@
+﻿---
+BasedOnStyle: Microsoft
+ColumnLimit: '60'
+TabWidth: '8'
+
+...
